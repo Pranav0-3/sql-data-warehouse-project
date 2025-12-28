@@ -23,7 +23,7 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+🎯 This repository helps 
 - SQL Development
 - Data Architect
 - Data Engineering  
@@ -45,7 +45,6 @@ Everything is for Free!
 
 ---
 
-## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -61,15 +60,6 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-### BI: Analytics & Reporting (Data Analysis)
-
-#### Objective
-Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
-
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
 ## 📂 Repository Structure
 ```
